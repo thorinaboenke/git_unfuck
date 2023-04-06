@@ -1,5 +1,5 @@
 # git unfuck
-a git alias that that resets the current local and the remote branch to the second last commit, for when you've oopsed the last commit and already pushed it.
+a git alias that resets the current local and the remote branch to the second last commit, for when you've oopsed the last commit and already pushed it.
 
 ## the command
 
